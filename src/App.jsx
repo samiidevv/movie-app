@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import Spinner from "./components/Spinner";
 import Search from "./components/Search";
+import MovieCard from "./components/MovieCard";
 
 const API_BASE_URL = "https://api.themoviedb.org/3";
 
@@ -67,11 +68,9 @@ const App = () => {
           ) : errorMsg ? (
             <p className="text-red-500">{errorMsg}</p>
           ) : (
-            <ul className="flex flex-col">
+            <ul>
               {movieList.map((movie) => (
-                <p key={movie.id} className="text-white">
-                  {movie.title}
-                </p>
+                <MovieCard key={movie.id} movie={movie} />
               ))}
             </ul>
           )}
