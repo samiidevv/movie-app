@@ -1,8 +1,15 @@
 # 🎬 Movie App with React 19 & Appwrite
 
-![Movie App Banner](https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=1000&auto=format&fit=crop)
+![Movie App Banner](https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=1200&auto=format&fit=crop)
 
 <div align="center">
+  
+  <a href="https://samiidevv.github.io/movie-app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Click_Here-success?style=for-the-badge&logo=rocket" alt="Live Demo" />
+  </a>
+
+  <br />
+
   <a href="https://react.dev/">
     <img src="https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react" alt="React 19" />
   </a>
@@ -16,6 +23,7 @@
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   </a>
 </div>
+
 ---
 
 ## 🚀 Overview
@@ -24,10 +32,10 @@ A modern, high-performance Movie Application built with the latest **React 19** 
 
 ## 🛠 Tech Stack
 
-- **Appwrite:** An open-source Backend-as-a-Service (BaaS) platform that provides developers with a set of APIs to manage authentication, databases, storage, and more.
-- **React 19:** The latest version of React for building fast and reactive user interfaces using the Virtual DOM.
-- **Vite:** A lightning-fast build tool that provides an optimized development environment.
-- **Tailwind CSS:** A utility-first CSS framework for rapid and responsive UI development.
+- **[Appwrite](https://appwrite.io/):** An open-source Backend-as-a-Service (BaaS) platform for managing databases and movie trending logic.
+- **[React 19](https://react.dev/):** The latest React features for building a fast and reactive user interface.
+- **[Vite](https://vitejs.dev/):** Lightning-fast build tool and development server.
+- **[Tailwind CSS](https://tailwindcss.com/):** Utility-first CSS framework for a modern and responsive design.
 
 ## ✨ Features
 
@@ -36,3 +44,9 @@ A modern, high-performance Movie Application built with the latest **React 19** 
 - 📱 **Fully Responsive:** Optimized for mobile, tablet, and desktop screens.
 - 🎨 **Modern UI:** Clean, dark-themed interface for an immersive cinema-like experience.
 - ⚡ **Performance:** Extremely fast loading times thanks to Vite and React 19.
+
+---
+
+<div align="center">
+  Developed with ❤️ by <a href="https://github.com/samiidevv">samiidevv</a>
+</div>
