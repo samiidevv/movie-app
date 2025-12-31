@@ -28,7 +28,6 @@ A modern, high-performance Movie Application built with the latest **React 19** 
 - **React 19:** The latest version of React for building fast and reactive user interfaces using the Virtual DOM.
 - **Vite:** A lightning-fast build tool that provides an optimized development environment.
 - **Tailwind CSS:** A utility-first CSS framework for rapid and responsive UI development.
-- **React-use:** A collection of essential React hooks to simplify common tasks like state and lifecycle management.
 
 ## ✨ Features
 
